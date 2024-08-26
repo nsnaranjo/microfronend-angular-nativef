@@ -1,0 +1,11 @@
+app-host/node_modules
+app-host/.vscode
+app-host/.angular
+
+app-remote/node_modules
+app-remote/.vscode
+app-remote/.angular
+
+lib-event-bus/node_modules
+lib-event-bus/.vscode
+lib-event-bus/.angular
